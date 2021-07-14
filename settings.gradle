@@ -1,0 +1,2 @@
+rootProject.name = "Ashiedu App"
+include ':app'
